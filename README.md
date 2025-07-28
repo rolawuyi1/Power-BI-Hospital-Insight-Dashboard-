@@ -20,26 +20,31 @@ How can hospitals reduce treatment costs while improving or maintaining recovery
 
 🔍 Key Insights & Recommendations
 1. Treatment Cost Analysis
+
 Insight: Surgery is the most expensive treatment per patient.
 
 Recommendation: For applicable cases, consider using counseling, medication, or physical therapy, which tend to have lower costs and comparable recovery ratings.
 
 2. Recovery Rating by Treatment Type and Cost
+
 Insight: Expensive treatments such as surgery do not consistently result in higher recovery ratings.
 
 Recommendation: Focus on cost-effective treatments like counseling, which deliver strong recovery outcomes at a lower cost.
 
 3. Number of Patient by Treatment Type 
+
 Insight: Diabetes exhibits the highest number of patient 
 
 Recommendation: Prioritize diabetes care through targeted treatment plans and preventive programs to improve outcomes and reduce long-term costs.
 
 4. Diagnosis Volume and How well They recover Overtime 
+
 Insight: Peaks in patient admissions align with seasonal diagnosis patterns.
 
 Recommendation: Use these trends to better plan staffing, bed capacity, and supply allocation during high-demand months.
 
 5. Doctor Workload Analysis
+
 Insight: A small number of doctors are managing a disproportionately large share of patients, suggesting an imbalance in workload distribution among the medical staff.
 
 Recommendation: Balance patient assignments across doctors to prevent burnout and maintain quality of care. Consider redistributing cases or hiring support staff where needed.
