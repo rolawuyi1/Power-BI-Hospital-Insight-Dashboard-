@@ -41,6 +41,7 @@ Recommendation: Use these trends to better plan staffing, bed capacity, and supp
 
 5. Doctor Workload Analysis
 Insight: A small number of doctors are managing a disproportionately large share of patients, suggesting an imbalance in workload distribution among the medical staff.
+
 Recommendation: Balance patient assignments across doctors to prevent burnout and maintain quality of care. Consider redistributing cases or hiring support staff where needed.
 
 
@@ -51,10 +52,12 @@ Recommendation: Balance patient assignments across doctors to prevent burnout an
    
 Focus on high-recovery, low-cost treatments (e.g., counseling, physical therapy).
 Review and revise current treatment strategies to avoid overuse of surgery where alternatives exist.
+
 2. Use Admission Trends for Planning
    
 Monitor admission peaks by month and diagnosis.
 Align staffing, beds, and supplies with anticipated demand to prevent resource strain.
+
 3. Evaluate Surgery Alternatives
 
 Pilot lower-cost treatments for conditions commonly treated with surgery.
